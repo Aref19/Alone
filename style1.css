@@ -1,0 +1,120 @@
+
+
+.Navigationbar{
+
+    background-color: rgb(0, 0, 0);
+          /* wie soll cinhalt aussehen in content */
+     overflow: hidden;
+     padding:  3px;
+    }
+
+  .Navigationbar a{
+       float: left;   /* property is used for positioning and formatting content */
+       text-align: left ;
+       color:rgb(255, 255, 255);
+       /* 14px for top and 10px for right*/
+       padding: 14px  16px;
+       font-size: 17px;
+       text-decoration: none;
+  }
+  
+ .image #imag {
+    
+    width: 100%;
+   /* offset-x | offset-y | blur-radius | color */
+    box-shadow:  10px 5px 10px black;
+ }
+ .input{
+     margin: 50px  50px;
+     padding: 5px  50px;
+      border-style: dotted; 
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
